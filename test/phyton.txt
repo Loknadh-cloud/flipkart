@@ -1,0 +1,7 @@
+hello
+
+after executing git init command
+it will create a empty local repo
+taht loacal repo provides threee logical areas
+and it will create a hidden directory called as .gitthis dir contains some files and dir
+
